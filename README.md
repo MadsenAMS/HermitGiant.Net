@@ -1,2 +1,2 @@
-# hermitgiant.net
+# HermitGiant.Net
 Repositório do Site HermitGiant.net
